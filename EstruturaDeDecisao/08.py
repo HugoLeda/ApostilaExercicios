@@ -1,11 +1,13 @@
 # Faça um programa que pergunte o preço de três produtos e informe qual produto você deve comprar, sabendo quea decisão é sempre pelo mais barato.
 
-produtos = []
+menorValor = 1000000
+produtoFinal = ''
 
-for i in range (3) :
+for i in range(3) :
   produto = input("Digite o nome do produto: ")
   valor = float(input("Digite seu valor: "))
-  combinacao = {produto : valor}
-  produtos.append(combinacao)
+  if (valor < menorValor) :
+    menorValor = valor
+    produtoFinal = produto
 
-print(produtos)
+print('Você deve comprar ' + produtoFinal + ' pois é o mais barato, custando R$ ', menorValor)
