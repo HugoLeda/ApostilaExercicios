@@ -1,2 +1,2 @@
-<h1> Apostila de Exercícios sobre Python</h1>
+<h1 align="center"> Apostila de Exercícios sobre Python <img src="./py.png" width="24px" /></h1>
  
