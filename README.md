@@ -1,6 +1,5 @@
 <h1 align="center"> 
-  Apostila de Exercícios - Lógica de Programação
-  <img src="./py.png" width="24px" />
+  Apostila de Exercícios - Lógica de Programação  
 </h1>
  
 <h4 align="justify">
