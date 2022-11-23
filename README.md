@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  Exercícios para Lógica de Programação  
+  Exercícios para Lógica  
 </h1>
  
 <h4 align="justify">
