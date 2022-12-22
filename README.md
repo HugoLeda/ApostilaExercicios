@@ -3,7 +3,7 @@
 </h1>
  
 <h4 align="justify">
-  Esta é uma lista com sugestões de programas para iniciantes em programação. Os exercícios podem ser implementados em Python, C, Java, Javascript, Pascal ou em qualquer outra linguagem. 
+  Esta é uma lista com sugestões de programas para iniciantes em programação. Os exercícios podem ser implementados em Python, C, Java, Javascript, Pascal ou em qualquer outra linguagem de programação. 
 </h4>
 
 <br />
