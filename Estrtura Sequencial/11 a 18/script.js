@@ -12,27 +12,3 @@ function heightPeople() {
   const pesoIdeal = (72.7*altura) - 58
   alert(`O seu peso ideal é ${pesoIdeal}`)
 }
-
-function SexoPeople() {
-  alert('oi');
-}
-
-function fishermanTalk() {
-  alert('oi');
-}
-
-function earningPerHour() {
-  alert('oi');
-}
-
-function paintStoreTree() {
-  alert('oi');
-}
-
-function paintStoreSix() {
-  alert('oi');
-}
-
-function calculateSpeed() {
-  alert('oi');
-}
