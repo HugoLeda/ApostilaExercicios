@@ -9,8 +9,8 @@
 <br />
 
 <ul>
-  <li>Estrutura de Decisão;</li>
-  <li>Estrutura de Repetição;</li>
+  <li>Estrutura de Decisão</li>
+  <li>Estrutura de Repetição</li>
   <li>Funções</li>
   <li>Listas Ordenadas</li>
 </ul>
