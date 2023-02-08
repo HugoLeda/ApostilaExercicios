@@ -1,16 +1,16 @@
 <h1 align="center"> 
-  Exercícios para lógica  
+  Exercícios para lógica de programação  
 </h1>
  
 <h4 align="justify">
-  Esta é uma lista com sugestões de programas para iniciantes em programação. Os exercícios podem ser implementados em Python, C, Java, Javascript, Pascal ou em qualquer outra linguagem de programação. 
+  Esta é uma lista com sugestões de programas para exercitar a lógica de programação. Os exercícios podem ser implementados em Python, C, Java, Javascript, Pascal ou em qualquer outra linguagem de programação. 
 </h4>
 
 <br />
 
 <ul>
-  <li>Estrutura de Decisão;</li>
-  <li>Estrutura de Repetição;</li>
+  <li>Estrutura de Decisão</li>
+  <li>Estrutura de Repetição</li>
   <li>Funções</li>
   <li>Listas Ordenadas</li>
 </ul>
